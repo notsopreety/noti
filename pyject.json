@@ -1,3 +1,7 @@
 {
-  "noti": "Welcome To Beta Test Of PYJECT."
+  "noti": {
+    "Welcome To Beta Test Of PYJECT.",
+    "Have Fun Of Using Pyject.",
+    "This Is Beta Test"
+  }
 }
