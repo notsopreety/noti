@@ -1,0 +1,481 @@
+[{
+  "question": "WHO IS THE PUBLISHER OF THE GAME?",
+  "img": "https://i.imgur.com/F3cyC9m.jpg",
+  "A": "PUBG Corporation",
+  "B": "Epic Games",
+  "C": "Blizzard",
+  "D": "Microsoft",
+  "answer": "A",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "WHEN WAS THE GAME FIRST RELEASED?",
+  "img": "https://i.imgur.com/qH19yfH.gif",
+  "A": "January 20, 2018",
+  "B": "December 20, 2017",
+  "C": "June 20, 2016",
+  "D": "December 20, 2016",
+  "answer": "B",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "HOW MANY MAIN MAPS ARE THERE?",
+  "img": "https://i.imgur.com/kL6ETK4.gif",
+  "A": "1",
+  "B": "2",
+  "C": "3",
+  "D": "4",
+  "answer": "D",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "WHAT MAP IS THIS?",
+  "img": "https://i.imgur.com/tfsvuSA.gif",
+  "A": "Vikendi",
+  "B": "Sanhok",
+  "C": "Miramar",
+  "D": "Erangel",
+  "answer": "D",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "WHAT MAP IS THIS?",
+  "img": "https://i.imgur.com/RIfe28a.gif",
+  "A": "Vikendi",
+  "B": "Sanhok",
+  "C": "Miramar",
+  "D": "Erangel",
+  "answer": "A",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "WHAT MAP IS THIS?",
+  "img": "https://i.imgur.com/k1tkApZ.gif",
+  "A": "Vikendi",
+  "B": "Sanhok",
+  "C": "Miramar",
+  "D": "Erangel",
+  "answer": "C",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "WHAT MAP IS THIS?",
+  "img": "https://i.imgur.com/RESBsu8.gif",
+  "A": "Vikendi",
+  "B": "Sanhok",
+  "C": "Miramar",
+  "D": "Erangel",
+  "answer": "B",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "WHAT IS A MAXIMUM LEVEL OF A PUBG BACKPACK?",
+  "img": "https://i.imgur.com/37LFVBq.gif",
+  "A": "1",
+  "B": "2",
+  "C": "3",
+  "D": "4",
+  "answer": "C",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "WHAT’S THE CAPACITY OF A LEVEL 3 BACKPACK?",
+  "img": "https://i.imgur.com/KLe4UnA.gif",
+  "A": "320",
+  "B": "270",
+  "C": "200",
+  "D": "220",
+  "answer": "B",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "WHAT IS THE RED ZONE?",
+  "img": "https://i.imgur.com/EhAy6QM.gif",
+  "A": "a special place where your HP automatically refills",
+  "B": "a hidden and safe area",
+  "C": "an area where bombs can randomly drop",
+  "D": "an area that allows you to teleport anywhere",
+  "answer": "C",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "WHAT HAPPENS TO A WEAPON WHEN YOU ENABLE AUTO MODE?",
+  "img": "https://i.imgur.com/3lETVwl.gif",
+  "A": "It will self destruct.",
+  "B": "It fires continuously until ammo runs out.",
+  "C": "It fires five rounds per shot.",
+  "D": "It fires once.",
+  "answer": "B",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "WHAT’S THE MAXIMUM NUMBER OF PLAYERS THAT CAN PARTICIPATE IN A MATCH?",
+  "img": "https://i.imgur.com/XCLqlas.gif",
+  "A": "50",
+  "B": "100",
+  "C": "150",
+  "D": "200",
+  "answer": "B",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "AIRDROPS ARE DROPPED BY WHAT?",
+  "img": "https://i.imgur.com/lIf1kSW.gif",
+  "A": "spaceship",
+  "B": "helicopter",
+  "C": "airplane",
+  "D": "drone",
+  "answer": "C",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "WHAT DO YOU CALL THE VERSION OF THE GAME THAT’S DESIGNED FOR LOW-END COMPUTERS?",
+  "img": "https://i.imgur.com/WBjGHdb.gif",
+  "A": "GAME OF PEACE",
+  "B": "PUBG Mobile",
+  "C": "PUBG Lite",
+  "D": "PUBG Beta",
+  "answer": "C",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": " WHAT KIND OF WEAPON IS THIS?",
+  "img": "https://i.imgur.com/snnSZgg.gif",
+  "A": "SKS",
+  "B": "VSS",
+  "C": "M416",
+  "D": "MK14",
+  "answer": "A",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "WHAT KIND OF WEAPON IS THIS?",
+  "img": "https://i.imgur.com/TBnTSyJ.gif",
+  "A": "Sickle",
+  "B": "Crossbow",
+  "C": "Machete",
+  "D": "Bow & Arrow",
+  "answer": "B",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "WHAT JAPANESE FILM IS THE GAME BASED ON?",
+  "img": "https://i.imgur.com/o3aiceX.gif",
+  "A": "Player Unkown",
+  "B": "Battle Royale",
+  "C": "Godzilla",
+  "D": "Spirited Away",
+  "answer": "B",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "WHAT KIND OF GENRE IS PUBG?",
+  "img": "https://i.imgur.com/6ste3wv.gif",
+  "A": "Adventure",
+  "B": "Puzzle",
+  "C": "Combat",
+  "D": "Battle Royal",
+  "answer": "D",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "IN WHAT MAP CAN YOU FIND THE RONY?",
+  "img": "https://i.ibb.co/ChkpKkL/354395805-1253468115537577-1998130492023189323-n-gif-nc-cat-103-ccb-1-7-nc-sid-041f46-nc-ohc-9-J92-V.gif",
+  "A": "Vikendi",
+  "B": "Sanhok",
+  "C": "Miramar",
+  "D": "Erangel",
+  "answer": "B",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "HOW CAN YOU RUN AUTOMATICALLY?",
+  "img": "https://i.ibb.co/LPZCjmn/354483158-696539102282729-6265717632086055466-n-gif-nc-cat-104-ccb-1-7-nc-sid-041f46-nc-ohc-4m4cl-Hk.gif",
+  "A": "You can’t.",
+  "B": "Turn on sprint mode in the setitngs.",
+  "C": "Press the volume up button.",
+  "D": "Swipe up from the virtual joystick.",
+  "answer": "D",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "WHAT KIND OF WEAPON IS THIS?",
+  "img": "https://i.ibb.co/SxXgHdc/354335732-170995029094506-7059425639048965539-n-png-nc-cat-107-ccb-1-7-nc-sid-ae9488-nc-ohc-U1-Ba2-Z.png",
+  "A": "M762",
+  "B": "AKM",
+  "C": "Groza",
+  "D": "AUG 43",
+  "answer": "C",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "What does PUBG stand for?",
+  "img": "https://i.ibb.co/yVxV48B/354545671-927542348547059-3650289639057230844-n-png-stp-dst-png-p480x480-nc-cat-104-ccb-1-7-nc-sid-a.png",
+  "A": "player unknown battlegrounds",
+  "B": "player united battlegrounds",
+  "C": "Player Unitiled Bomb Zone",
+  "D": "practice united battelgrounds",
+  "answer": "A",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "What is this item called?",
+  "img": "https://i.ibb.co/k6Wf1J1/353174321-215663764699417-3784256056514240659-n-png-nc-cat-111-ccb-1-7-nc-sid-ae9488-nc-ohc-OXZJBVm.png",
+  "A": "Frag Grenade.",
+  "B": "Molotov Cocktail.",
+  "C": "Smoke Grenade.",
+  "D": "Stun Grenade.",
+  "answer": "B",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "What is this item called?",
+  "img": "https://i.ibb.co/pdQXqK0/353158348-599542435492607-5064367772145883492-n-png-nc-cat-108-ccb-1-7-nc-sid-ae9488-nc-ohc-w-HZx6se.png",
+  "A": "Frag Grenade.",
+  "B": "Molotov Cocktail.",
+  "C": "Smoke Grenade.",
+  "D": "Stun Grenade.",
+  "answer": "C",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "What is this item called?",
+  "img": "https://i.ibb.co/Y7WrRSN/354613363-753536633136966-460920791832286678-n-png-nc-cat-103-ccb-1-7-nc-sid-ae9488-nc-ohc-BC-h-Lk-A.png",
+  "A": "Frag Grenade.",
+  "B": "Molotov Cocktail.",
+  "C": "Smoke Grenade.",
+  "D": "Stun Grenade.",
+  "answer": "D",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "What is this item called?",
+  "img": "https://i.ibb.co/SrgmBD1/354471737-803585407792235-262986396799437297-n-png-nc-cat-103-ccb-1-7-nc-sid-ae9488-nc-ohc-l-ES5v-Hd.png",
+  "A": "Frag Grenade.",
+  "B": "Molotov Cocktail.",
+  "C": "Smoke Grenade.",
+  "D": "Stun Grenade.",
+  "answer": "A",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "What's the Name of the item Shown in the picture:",
+  "img": "https://i.ibb.co/tC19yQW/354570314-229334776582154-1457778283841408663-n-png-nc-cat-108-ccb-1-7-nc-sid-ae9488-nc-ohc-ue-RWdz.png",
+  "A": "Sickle",
+  "B": "Pan",
+  "C": "Crowbar",
+  "D": "Machete",
+  "answer": "A",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "What's the Name of the item Shown in the picture:",
+  "img": "https://i.ibb.co/9rMR7Cr/354538873-1643561569461643-7933412029512158867-n-png-nc-cat-101-ccb-1-7-nc-sid-ae9488-nc-ohc-u03-FON.png",
+  "A": ".300 Magnum",
+  "B": "5.56mm",
+  "C": "12 Gauge",
+  "D": ".45 Acp",
+  "answer": "A",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "What's the Name of the item Shown in the picture:",
+  "img": "https://i.ibb.co/N7cvcR0/354184135-800751021578262-459885562040698517-n-png-nc-cat-104-ccb-1-7-nc-sid-ae9488-nc-ohc-bi-Bezeo.png",
+  "A": "6x Scope",
+  "B": "8x CQBSS Scope",
+  "C": "4x Scope",
+  "D": "2x Aimpoint Scope",
+  "answer": "D",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "What's the Name of the item Shown in the picture:",
+  "img": "https://i.ibb.co/DPJcdj8/354545684-309814718038802-2997617990127755077-n-png-nc-cat-106-ccb-1-7-nc-sid-ae9488-nc-ohc-as-I9-E6.png",
+  "A": "Laser Sight",
+  "B": "Angled Foregrip",
+  "C": "Quiver",
+  "D": "Half Grip",
+  "answer": "A",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "What's the Name of the item Shown in the picture:",
+  "img": "https://i.ibb.co/5MG8Hjc/353175218-231230829662423-8926978174796272789-n-png-nc-cat-102-ccb-1-7-nc-sid-ae9488-nc-ohc-50h-HRGZ.png",
+  "A": "PP-19 Bizon",
+  "B": "VSS",
+  "C": "TOMMY GUN",
+  "D": "UMP5K",
+  "answer": "A",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "What's the Name of the item Shown in the picture:",
+  "img": "https://i.imgur.com/mmFF5jq.png",
+  "A": "P92",
+  "B": "R1895",
+  "C": "R45",
+  "D": "Desert Eagle",
+  "answer": "D",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "What's the Name of the item Shown in the picture:",
+  "img": "https://i.ibb.co/ng32QFN/354628136-6303479549772781-6594494871954352326-n-png-nc-cat-106-ccb-1-7-nc-sid-ae9488-nc-ohc-Kb-K9qw.png",
+  "A": "2x AimpointScope",
+  "B": "Canted sight",
+  "C": "Holographic Sight",
+  "D": "3x Backlit Scope",
+  "answer": "B",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "What's the Name of the item Shown in the picture:",
+  "img": "https://i.imgur.com/M9xeTnj.png",
+  "A": "S12K",
+  "B": "SAWED-OFF",
+  "C": "DBS",
+  "D": "S686",
+  "answer": "C",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "What's the Name of the item Shown in the picture:",
+  "img": "https://i.ibb.co/sK4SkQ1/354280255-949205612982591-8082431416776149258-n-png-nc-cat-104-ccb-1-7-nc-sid-ae9488-nc-ohc-ai-Cp-RT.png",
+  "A": "7.62mm",
+  "B": "Flare",
+  "C": "Bolt",
+  "D": "5.56mm",
+  "answer": "B",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "What's the Name of the item Shown in the picture:",
+  "img": "https://i.ibb.co/3pk1w5N/353172311-959960668577335-6656544457394693921-n-png-nc-cat-108-ccb-1-7-nc-sid-ae9488-nc-ohc-UQ8-Tb-T.png",
+  "A": "Suppressor (AR, DMR, S12K)",
+  "B": "Flash Hider (AR, DMR, S12K)",
+  "C": "Compensator (DMR, SR)",
+  "D": "Bullet Loops (SG, Win94, Kar98k)",
+  "answer": "A",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "What's the Name of the item Shown in the picture:",
+  "img": "https://i.ibb.co/qdxnSjN/353141359-253837210593934-5825793258051047253-n-png-nc-cat-108-ccb-1-7-nc-sid-ae9488-nc-ohc-jb-Gd9p.png",
+  "A": "QuickDraw Mag (DMR, SR)",
+  "B": "QuickDraw Mag (AR, DMR, S12K)",
+  "C": "Extended Mag (AR, DMR, S12K)",
+  "D": "Extended Mag (Handgun, SMG)",
+  "answer": "A",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "What's the Name of the item Shown in the picture:",
+  "img": "https://i.imgur.com/7sfxKJG.png",
+  "A": "P92",
+  "B": "R1895",
+  "C": "Skorpion",
+  "D": "R45",
+  "answer": "B",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "What's the Name of the item Shown in the picture:",
+  "img": "https://i.ibb.co/MN63L4s/353147820-817649736735295-2331044520652518913-n-png-nc-cat-104-ccb-1-7-nc-sid-ae9488-nc-ohc-Tv-QBLx0.png",
+  "A": "Tactical Stock",
+  "B": "Stock for Micro UZI",
+  "C": "Cheek Pad",
+  "D": "Bullet Loops (SG, Win94, Kar98k)",
+  "answer": "B",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}, {
+  "question": "What's the Name of the item Shown in the picture:",
+  "img": "https://i.ibb.co/0qJS9ZK/354578659-1014415153304444-5681769288099713561-n-png-nc-cat-100-ccb-1-7-nc-sid-ae9488-nc-ohc-CJMJWUJ.png",
+  "A": "7.62mm",
+  "B": ".300 Magnum",
+  "C": "12 Gauge",
+  "D": "Bolt",
+  "answer": "D",
+  "author": {
+    "name": "Samir B. Thakuri",
+    "contact": "https://www.facebook.com/profile.php?id=100008578069233"
+  }
+}]
